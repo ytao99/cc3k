@@ -1,7 +1,7 @@
 "*.cc" files for this group assignment are not uploaded due to school policy. To play, simply download the whole cc3k folder, cd to the folder, type "./cc3k" to play.
 
 
-ChamberCrawler3000 (CC3K):
+ChamberCrawler3000 (CC3K) - June, 2018:
 
 Symbols on the map:
 |, -: wall
